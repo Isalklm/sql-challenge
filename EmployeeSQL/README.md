@@ -10,7 +10,6 @@ This project focuses on analyzing employee data using structured SQL queries. Th
 ---
 
 ## Files Included
-- **ERD.pdf**: A PDF version of the Entity Relationship Diagram.
 - **ERD_diagram.png**: An image file of the Entity Relationship Diagram.
 - **queries.sql**: Contains the SQL queries used for data analysis as part of the challenge.
 - **QuickDBD-export.png**: An exported image of the ERD from QuickDBD.
